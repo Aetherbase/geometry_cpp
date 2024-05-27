@@ -1,6 +1,3 @@
-
-
-
 #ifndef INCLUDE_GEOMETRY_CPP_ND
 #define INCLUDE_GEOMETRY_CPP_ND
 

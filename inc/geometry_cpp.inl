@@ -1,6 +1,3 @@
-
-
-
 #include "geometry_cpp.hpp"
 
 

@@ -1,6 +1,3 @@
-
-
-
 #ifndef INCLUDE_GEOMETRY_CPP_GUI
 #define INCLUDE_GEOMETRY_CPP_GUI
 

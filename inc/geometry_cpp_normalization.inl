@@ -1,6 +1,3 @@
-
-
-
 #include "geometry_cpp.hpp"
 #include "geometry_cpp_algorithm.hpp"
 #include "geometry_cpp_matrix.hpp"
